@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_initial">InitialActivity</string>
+    <string name="title_activity_section_group">SectionGroupActivity</string>
+    <string name="title_activity_section">SectionActivity</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="Title"></string>
+    <string name="Content"></string>
+    <string name="NotebookPath"></string>
+    <string name="HN">Historial Noteboks:</string>
+    <string name="Open">Open</string>
+
+</resources>

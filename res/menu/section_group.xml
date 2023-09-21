@@ -1,0 +1,9 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/Create" android:title="Create"><menu>
+                <item android:id="@+id/CreateSectionGroup" android:title="Section Group"/>
+                <item android:id="@+id/CreateSection" android:title="Section"/>
+            </menu>
+        </item>
+        <item android:id="@+id/Refresh" android:title="Refresh"></item>
+    </menu>

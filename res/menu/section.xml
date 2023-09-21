@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/CreateRecord" android:title="Create Record"></item>
+    <item android:id="@+id/SaveManually" android:title="Save Manually"></item>
+    <item android:id="@+id/SRefresh" android:title="Refresh"></item>
+
+</menu>

@@ -1,0 +1,11 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/EditorSave" android:title="Save Manully"></item>
+        <item android:id="@+id/ChangeSize" android:title="Change Size">
+            <menu>
+                <item android:id="@+id/Large" android:title="Large"/>
+                <item android:id="@+id/Medium" android:title="Medium"/>
+                <item android:id="@+id/Small" android:title="Small"/>
+            </menu>
+        </item>
+    </menu>
